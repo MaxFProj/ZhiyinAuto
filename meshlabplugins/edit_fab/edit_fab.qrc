@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon_info.png</file>
+        <file>images/cur_info.png</file>
+        <file>images/last.png</file>
+        <file>images/next.png</file>
+        <file>images/align model.png</file>
+        <file>images/pick align.png</file>
+        <file>images/save mesh.png</file>
+        <file>images/setting.png</file>
+    </qresource>
+</RCC>

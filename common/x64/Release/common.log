@@ -1,0 +1,233 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.6.3/5.6.3/msvc2015_64/bin/qmake)
+  Moc'ing filterscript.h...
+  Moc'ing GLLogStream.h...
+  Moc'ing interfaces.h...
+  Moc'ing meshmodel.h...
+  Moc'ing ml_shared_data_context.h...
+  Moc'ing scriptinterface.h...
+  Moc'ing scriptsyntax.h...
+  glew.c
+  filterparameter.cpp
+  filterscript.cpp
+  GLLogStream.cpp
+  interfaces.cpp
+  meshlabdocumentbundler.cpp
+  meshlabdocumentxml.cpp
+  meshmodel.cpp
+  mlapplication.cpp
+  ml_shared_data_context.cpp
+E:\code\3DPreprocess\src\common\mlapplication.h(41,69): warning C4100: “hw”: 未引用的形参 (编译源文件 mlapplication.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 meshmodel.cpp)
+  pluginmanager.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 filterparameter.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 meshlabdocumentxml.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 interfaces.cpp)
+  scriptinterface.cpp
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 filterparameter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 filterparameter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 meshlabdocumentxml.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 filterparameter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 filterparameter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 filterparameter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 meshlabdocumentxml.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 interfaces.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_nvm.h(157,1): warning C4305: “参数”: 从“double”到“const float”截断 (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_nvm.h(100): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterNVM<CMeshO>::Open(OpenMeshType &,std::vector<Shotm,std::allocator<Shotm>> &,std::vector<std::string,std::allocator<std::string>> &,const char *,vcg::CallBackPos (__cdecl *))”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 meshlabdocumentbundler.cpp)
+E:\code\3DPreprocess\src\common\meshlabdocumentbundler.cpp(71): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterNVM<CMeshO>::Open(OpenMeshType &,std::vector<Shotm,std::allocator<Shotm>> &,std::vector<std::string,std::allocator<std::string>> &,const char *,vcg::CallBackPos (__cdecl *))”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ]
+E:\code\3DPreprocess\src\common\meshlabdocumentbundler.cpp(71): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterNVM<CMeshO>”的引用
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 meshlabdocumentxml.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 meshlabdocumentxml.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 meshlabdocumentxml.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 interfaces.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 pluginmanager.cpp)
+  scriptsyntax.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 scriptinterface.cpp)
+  searcher.cpp
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(1770,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(1764): message : 在编译 类 模板 成员函数“void vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::drawEdgesBO(const vcg::GLMeshAttributesInfo::InternalRendAtts &) const”时
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(1754): message : 查看对正在编译的函数 模板 实例化“void vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::drawEdgesBO(const vcg::GLMeshAttributesInfo::InternalRendAtts &) const”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\qt\qt_thread_safe_mesh_attributes_multi_viewer_bo_manager.h(38): message : 查看对正在编译的 类 模板 实例化“vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\src\common\ml_shared_data_context.cpp(71): message : 查看对正在编译的 类 模板 实例化“vcg::QtThreadSafeGLMeshAttributesMultiViewerBOManager<CMeshO,QGLContext *,MLPerViewGLOptions>”的引用
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(1460,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(1412): message : 在编译 类 模板 成员函数“void vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::drawTrianglesBO(const vcg::GLMeshAttributesInfo::InternalRendAtts &,const std::vector<std::_Vbase,std::allocator<std::_Vbase>> &) const”时
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(1403): message : 查看对正在编译的函数 模板 实例化“void vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::drawTrianglesBO(const vcg::GLMeshAttributesInfo::InternalRendAtts &,const std::vector<std::_Vbase,std::allocator<std::_Vbase>> &) const”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(2186,1): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(2181): message : 在编译 类 模板 成员函数“void vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd::set(const MESH_TYPE &,CEdgeO *,const int)”时
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(2164): message : 查看对正在编译的函数 模板 实例化“void vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd::set(const MESH_TYPE &,CEdgeO *,const int)”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(1752): message : 查看对正在编译的 类 模板 实例化“vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(1742): message : 在编译 类 模板 成员函数“void std::vector<vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd,std::allocator<vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd>>::_Tidy(void) noexcept”时
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(699): message : 查看对正在编译的函数 模板 实例化“void std::vector<vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd,std::allocator<vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd>>::_Tidy(void) noexcept”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(2314): message : 查看对正在编译的 类 模板 实例化“std::vector<vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd,std::allocator<vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::EdgeVertInd>>”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(2187,1): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据 (编译源文件 ml_shared_data_context.cpp)
+  SGSmooth.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(242,55): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=GLuint
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(938): message : 查看对正在编译的函数 模板 实例化“std::pair<GLuint,GLuint>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(938): message : 查看对正在编译的函数 模板 实例化“std::pair<GLuint,GLuint>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept”的引用 (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(885): message : 在编译 类 模板 成员函数“bool vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::updateBuffersReplicatedPipeline(const vcg::GLMeshAttributesInfo::InternalRendAtts &)”时
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gl\gl_mesh_attributes_multi_viewer_bo_manager.h(627): message : 查看对正在编译的函数 模板 实例化“bool vcg::NotThreadSafeGLMeshAttributesMultiViewerBOManager<MESH_TYPE,UNIQUE_VIEW_ID_TYPE,GL_OPTIONS_DERIVED_TYPE>::updateBuffersReplicatedPipeline(const vcg::GLMeshAttributesInfo::InternalRendAtts &)”的引用
+          with
+          [
+              MESH_TYPE=CMeshO,
+              UNIQUE_VIEW_ID_TYPE=QGLContext *,
+              GL_OPTIONS_DERIVED_TYPE=MLPerViewGLOptions
+          ] (编译源文件 ml_shared_data_context.cpp)
+  xmlfilterinfo.cpp
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(75,25): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const size_t”
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(75,25): message : 请考虑在格式字符串中使用“%zd”
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(75,25): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“const size_t”
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(75,25): message : 请考虑在格式字符串中使用“%zd”
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(152,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(157,5): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(193,5): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(194,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(310,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(310,27): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(404,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(404,36): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(471,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\common\SGSmooth.cpp(471,28): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 pluginmanager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 pluginmanager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 pluginmanager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 pluginmanager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 pluginmanager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 pluginmanager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 scriptinterface.cpp)
+  moc_filterscript.cpp
+  moc_GLLogStream.cpp
+  moc_interfaces.cpp
+  moc_meshmodel.cpp
+  moc_ml_shared_data_context.cpp
+  moc_scriptinterface.cpp
+  moc_scriptsyntax.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_meshmodel.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_scriptinterface.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_scriptinterface.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_meshmodel.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_meshmodel.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_interfaces.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetPath(E:\code\3DPreprocess\src\x64\Release\common.lib) 与 Library 的 OutputFile 属性值(E:\code\3DPreprocess\src\distrib\common.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  common.vcxproj -> E:\code\3DPreprocess\src\x64\Release\common.lib

@@ -1,0 +1,1444 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.6.3/5.6.3/msvc2015_64/bin/qmake)
+  uic UI\setting_parameter.ui
+  Rcc'ing edit_fab.qrc...
+  Moc'ing process_edit.h...
+  Moc'ing edit_fab_factory.h...
+   E:\code\3DPreprocess\src\meshlabplugins\edit_fab\UI\setting_parameter.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget1'.
+  coordinateframe.cpp
+  edit_fab_factory.cpp
+  process_edit.cpp
+E:\code\3DPreprocess\vcglib\wrap\gui\coordinateframe.cpp(65,41): warning C4100: “glw”: 未引用的形参
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\BinaryWindingNumberOperations.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\BinaryWindingNumberOperations.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\centroid.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\centroid.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(604,13): warning C4129: “e”: 不可识别的字符转义序列 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\string_to_mesh_boolean_type.cpp(29,55): warning C4566: 由通用字符名称“\u2206”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(604,13): warning C4129: “e”: 不可识别的字符转义序列 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\string_to_mesh_boolean_type.cpp(29,55): warning C4566: 由通用字符名称“\u2206”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(30,28): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(80,26): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(30,28): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(80,26): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(543,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(544,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(545,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(546,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(547,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(548,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(550,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(551,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(552,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(553,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(554,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(555,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(557,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(558,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(559,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(560,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(561,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(562,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(568,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(569,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(570,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(571,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(572,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(573,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(575,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(576,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(577,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(578,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(579,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(580,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(582,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(583,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(584,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(585,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(586,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(587,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(543,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(544,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(545,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(546,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(547,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(548,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(550,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(551,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(552,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(553,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(554,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(555,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(557,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(558,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(559,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(560,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(561,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(562,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(568,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(569,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(570,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(571,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(572,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(573,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(575,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(576,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(577,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(578,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(579,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(580,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(582,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(583,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(584,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(585,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(586,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(587,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(629,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(630,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(631,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(636,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(629,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(630,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(631,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(636,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(760,7): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(871,60): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(872,57): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(873,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(874,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(876,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(877,62): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(878,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(879,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(760,7): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(912,6): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(871,60): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(872,57): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(873,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(874,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(876,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(877,62): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(878,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(879,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(912,6): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(90,49): warning C4100: “current_model”: 未引用的形参
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(118,60): warning C4100: “e”: 未引用的形参
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(125,64): warning C4100: “e”: 未引用的形参
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(256,9): warning C4189: “y”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(255,9): warning C4189: “x”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(227,9): warning C4189: “open_result”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(387,6): warning C4189: “open_result”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(402,6): warning C4189: “ret”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(479,7): warning C4189: “create_directory”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(508): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<CMeshO>”的引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(506,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(660,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(664,32): warning C4189: “vertInd”: 局部变量已初始化但不引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(508): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<CMeshO>”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(506,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(660,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(664,32): warning C4189: “vertInd”: 局部变量已初始化但不引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(874,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(843): message : 在编译 类 模板 成员函数“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”时 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(238): message : 查看对正在编译的函数 模板 实例化“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”的引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(775,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(740): message : 在编译 类 模板 成员函数“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”时 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(290): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”的引用 (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(874,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(843): message : 在编译 类 模板 成员函数“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”时 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(238): message : 查看对正在编译的函数 模板 实例化“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(775,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(740): message : 在编译 类 模板 成员函数“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”时 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(290): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(61,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(493): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::FanTessellator<vcg::Point3<float>>(const std::vector<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>,std::allocator<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>>> &,std::vector<T,std::allocator<T>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(62,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(61,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(493): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::FanTessellator<vcg::Point3<float>>(const std::vector<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>,std::allocator<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>>> &,std::vector<T,std::allocator<T>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(62,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(298,16): warning C4018: “<=”: 有符号/无符号不匹配 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(123): message : 查看对正在编译的函数 模板 实例化“bool igl::copyleft::cgal::mesh_boolean<Derived,Eigen::Matrix<int,-1,3,0,-1,3>,Eigen::Matrix<size_t,2,1,0,2,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<size_t,2,1,0,2,1>> &,const std::function<int (Eigen::Matrix<int,1,-1,1,1,-1>)> &,const std::function<int (int,int)> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(56): message : 查看对正在编译的函数 模板 实例化“bool igl::copyleft::cgal::mesh_boolean<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const std::function<int (Eigen::Matrix<int,1,-1,1,1,-1>)> &,const std::function<int (int,int)> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\process_edit.cpp(487): message : 查看对正在编译的函数 模板 实例化“bool igl::copyleft::cgal::mesh_boolean<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::MeshBooleanType &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(335,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\extract_manifold_patches.cpp(58,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(245): message : 查看对正在编译的函数 模板 实例化“size_t igl::extract_manifold_patches<Derived,Eigen::Matrix<int,-1,1,0,-1,1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(123): message : 查看对正在编译的函数 模板 实例化“bool igl::copyleft::cgal::mesh_boolean<Derived,Eigen::Matrix<int,-1,3,0,-1,3>,Eigen::Matrix<size_t,2,1,0,2,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,3,0,-1,3>> &,const Eigen::MatrixBase<Eigen::Matrix<size_t,2,1,0,2,1>> &,const std::function<int (Eigen::Matrix<int,1,-1,1,1,-1>)> &,const std::function<int (int,int)> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\extract_manifold_patches.cpp(67,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(337,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(254): message : 查看对正在编译的函数 模板 实例化“size_t igl::copyleft::cgal::extract_cells<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(340,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(368,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(369,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\eigenlib\Eigen\src\Core\util\Meta.h(168,1): warning C4267: “参数”: 从“size_t”转换到“const To”，可能丢失数据
+          with
+          [
+              To=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\eigenlib\Eigen\src\Core\util\Meta.h(178): message : 查看对正在编译的 类 模板 实例化“Eigen::internal::is_convertible_impl<unsigned __int64,int>”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\vcglib\eigenlib\Eigen\src\Core\Matrix.h(294): message : 查看对正在编译的 类 模板 实例化“Eigen::internal::is_convertible<T,int>”的引用
+          with
+          [
+              T=size_t
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(267): message : 查看对正在编译的函数 模板 实例化“Eigen::Matrix<int,-1,1,0,-1,1>::Matrix<size_t>(const T &)”的引用
+          with
+          [
+              T=size_t
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(267): message : 查看对正在编译的函数 模板 实例化“Eigen::Matrix<int,-1,1,0,-1,1>::Matrix<size_t>(const T &)”的引用
+          with
+          [
+              T=size_t
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\propagate_winding_numbers.cpp(140,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(291): message : 查看对正在编译的函数 模板 实例化“bool igl::copyleft::cgal::propagate_winding_numbers<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const size_t,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const size_t,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\propagate_winding_numbers.cpp(225,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\edit_fab_factory.cpp(72): warning C4715: “FAB_EditFactory::getEditToolDescription”: 不是所有的控件路径都返回值
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\edit_fab_factory.cpp(65): warning C4715: “FAB_EditFactory::getMeshEditInterface”: 不是所有的控件路径都返回值
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(478,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(129): message : 查看对正在编译的函数 模板 实例化“size_t igl::copyleft::cgal::extract_cells_single_component<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(254): message : 查看对正在编译的函数 模板 实例化“size_t igl::copyleft::cgal::extract_cells<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(510,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(516,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(392,46): warning C4100: “EMAP”: 未引用的形参 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(458,10): warning C4189: “label_count”: 局部变量已初始化但不引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\facet_components.cpp(40,1): warning C4267: “初始化”: 从“size_t”转换到“Index”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(139): message : 查看对正在编译的函数 模板 实例化“void igl::facet_components<T,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const std::vector<std::vector<std::vector<T,std::allocator<T>>,std::allocator<std::vector<T,std::allocator<T>>>>,std::allocator<std::vector<std::vector<T,std::allocator<T>>,std::allocator<std::vector<T,std::allocator<T>>>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\facet_components.cpp(40,1): warning C4267: “初始化”: 从“size_t”转换到“const Index”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\outer_facet.cpp(78,1): warning C4267: “=”: 从“size_t”转换到“IndexType”，可能丢失数据
+          with
+          [
+              IndexType=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(175): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::outer_facet<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,int>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,IndexType &,bool &)”的引用
+          with
+          [
+              IndexType=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\closest_facet.cpp(151,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(280): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::closest_facet<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>,Kernel,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const CGAL::AABB_tree<AABB_triangle_traits> &,const std::vector<CGAL::Triangle_3<Kernel_>,std::allocator<CGAL::Triangle_3<Kernel_>>> &,const std::vector<bool,std::allocator<bool>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Kernel_=CGAL::Epeck
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\closest_facet.cpp(269,1): warning C4100: “closest_point”: 未引用的形参 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\closest_facet.cpp(397,25): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\closest_facet.cpp(398,27): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\closest_facet.cpp(413,1): warning C4100: “preferred_facet”: 未引用的形参 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\closest_facet.cpp(466,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\remesh_intersections.cpp(221,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(403): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::remesh_intersections<Derived,Eigen::Matrix<int,-1,3,0,-1,3>,Kernel_,Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,3,0,-1,3>> &,const std::vector<CGAL::Triangle_3<Kernel_>,std::allocator<CGAL::Triangle_3<Kernel_>>> &,const std::map<__int64,std::vector<std::pair<__int64,CGAL::Object>,std::allocator<std::pair<__int64,CGAL::Object>>>,std::less<__int64>,std::allocator<std::pair<const __int64,std::vector<std::pair<__int64,CGAL::Object>,std::allocator<std::pair<__int64,CGAL::Object>>>>>> &,bool,Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>,
+              Kernel_=CGAL::Epick
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(300): message : 在编译 类 模板 成员函数“igl::copyleft::cgal::SelfIntersectMesh<Kernel,DerivedV,DerivedF,DerivedVV,DerivedFF,DerivedIF,DerivedJ,DerivedIM>::SelfIntersectMesh(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,3,0,-1,3>> &,const igl::copyleft::cgal::RemeshSelfIntersectionsParam &,Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”时
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,3,0,-1,3>,
+              DerivedF=Eigen::Matrix<int,-1,3,0,-1,3>,
+              DerivedVV=Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,
+              DerivedFF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              DerivedIF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              DerivedJ=Eigen::Matrix<int,-1,1,0,-1,1>,
+              DerivedIM=Eigen::Matrix<int,-1,1,0,-1,1>,
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\remesh_self_intersections.cpp(59): message : 查看对正在编译的函数 模板 实例化“igl::copyleft::cgal::SelfIntersectMesh<Kernel,DerivedV,DerivedF,DerivedVV,DerivedFF,DerivedIF,DerivedJ,DerivedIM>::SelfIntersectMesh(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,3,0,-1,3>> &,const igl::copyleft::cgal::RemeshSelfIntersectionsParam &,Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,3,0,-1,3>,
+              DerivedF=Eigen::Matrix<int,-1,3,0,-1,3>,
+              DerivedVV=Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,
+              DerivedFF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              DerivedIF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              DerivedJ=Eigen::Matrix<int,-1,1,0,-1,1>,
+              DerivedIM=Eigen::Matrix<int,-1,1,0,-1,1>,
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\remesh_self_intersections.cpp(59): message : 查看对正在编译的 类 模板 实例化“igl::copyleft::cgal::SelfIntersectMesh<Kernel,DerivedV,DerivedF,DerivedVV,DerivedFF,DerivedIF,DerivedJ,DerivedIM>”的引用
+          with
+          [
+              DerivedV=Eigen::Matrix<double,-1,3,0,-1,3>,
+              DerivedF=Eigen::Matrix<int,-1,3,0,-1,3>,
+              DerivedVV=Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,
+              DerivedFF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              DerivedIF=Eigen::Matrix<int,-1,-1,0,-1,-1>,
+              DerivedJ=Eigen::Matrix<int,-1,1,0,-1,1>,
+              DerivedIM=Eigen::Matrix<int,-1,1,0,-1,1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(224): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::remesh_self_intersections<Derived,Eigen::Matrix<int,-1,3,0,-1,3>,Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,3,0,-1,3>> &,const igl::copyleft::cgal::RemeshSelfIntersectionsParam &,Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\remesh_intersections.cpp(226,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(222,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(484): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::order_facets_around_edge<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,size_t,size_t,const std::vector<T,std::allocator<T>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,bool)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(129): message : 查看对正在编译的函数 模板 实例化“size_t igl::copyleft::cgal::extract_cells_single_component<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,size_t,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const std::vector<std::vector<size_t,std::allocator<size_t>>,std::allocator<std::vector<size_t,std::allocator<size_t>>>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(228,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(234,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(240,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(4096,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(4108): message : 查看对正在编译的函数 模板 实例化“_OutIt std::_Copy_unchecked<unsigned __int64*,_OutIt>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=int *,
+              _InIt=unsigned __int64 *
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(173): message : 查看对正在编译的函数 模板 实例化“_OutIt *std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int*>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=int *,
+              _Ty=size_t,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<size_t>>>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(350,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\outer_facet.cpp(76): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::order_facets_around_edge<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,size_t,size_t,const std::vector<T,std::allocator<T>> &,const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\extract_cells.cpp(175): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::outer_facet<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,int>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,IndexType &,bool &)”的引用
+          with
+          [
+              IndexType=int
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(351,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(352,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(355,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(356,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(357,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(361,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(362,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(363,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(396,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\sort.cpp(74,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\unique_simplices.cpp(30): message : 查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\resolve_duplicated_faces.cpp(27): message : 查看对正在编译的函数 模板 实例化“void igl::unique_simplices<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\mesh_boolean.cpp(376): message : 查看对正在编译的函数 模板 实例化“void igl::resolve_duplicated_faces<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\sort.cpp(78,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\unique_rows.cpp(64,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\unique_simplices.cpp(33): message : 查看对正在编译的函数 模板 实例化“void igl::unique_rows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\unique_rows.cpp(64,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 process_edit.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(240,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 process_edit.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(6926): message : 查看对正在编译的函数 模板 实例化“decltype(auto) std::_Ref_fn<_Pr>::operator ()<unsigned __int64&,unsigned __int64&>(unsigned __int64 &,unsigned __int64 &)”的引用
+          with
+          [
+              _Pr=igl::copyleft::cgal::order_facets_around_edge::<lambda_1c38c4b75e0e3b0317e9c3f1f3b77f18>
+          ] (编译源文件 process_edit.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(7050): message : 查看对正在编译的函数 模板 实例化“_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=unsigned __int64 *,
+              _RanIt=unsigned __int64 *,
+              _Pr=std::_Ref_fn<igl::copyleft::cgal::order_facets_around_edge::<lambda_1c38c4b75e0e3b0317e9c3f1f3b77f18>>
+          ] (编译源文件 process_edit.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(7080): message : 查看对正在编译的函数 模板 实例化“void std::_Sort_unchecked<unsigned __int64*,std::_Ref_fn<_Pr>>(_RanIt,_RanIt,__int64,std::_Ref_fn<_Pr>)”的引用
+          with
+          [
+              _Pr=igl::copyleft::cgal::order_facets_around_edge::<lambda_1c38c4b75e0e3b0317e9c3f1f3b77f18>,
+              _RanIt=unsigned __int64 *
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\order_facets_around_edge.cpp(333): message : 查看对正在编译的函数 模板 实例化“void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,igl::copyleft::cgal::order_facets_around_edge::<lambda_1c38c4b75e0e3b0317e9c3f1f3b77f18>>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _Ty=size_t,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<size_t>>>,
+              _Pr=igl::copyleft::cgal::order_facets_around_edge::<lambda_1c38c4b75e0e3b0317e9c3f1f3b77f18>
+          ] (编译源文件 process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\outer_facet.cpp(76): message : 查看对正在编译的函数 模板 实例化“void igl::copyleft::cgal::order_facets_around_edge<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,const Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,size_t,size_t,const std::vector<T,std::allocator<T>> &,const Eigen::PlainObjectBase<Eigen::Matrix<ExactScalar,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 process_edit.cpp)
+  bitstream.c
+  mask.c
+  mmask.c
+  mqrspec.c
+  qrencode.c
+  qrinput.c
+  qrspec.c
+  rsecc.c
+  split.c
+E:\code\3DPreprocess\src\external\qrcode\qrinput.c(1012,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrinput.c(1058,43): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrinput.c(1141,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrinput.c(1190,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrencode.c(681,70): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrencode.c(695,70): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrencode.c(853,51): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\qrencode.c(862,55): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(96,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(139,47): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(140,40): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(142,44): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(152,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(179,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(216,46): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(217,40): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(219,43): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(234,46): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(235,39): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(237,43): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\code\3DPreprocess\src\external\qrcode\split.c(247,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  qrc_edit_fab.cpp
+  moc_process_edit.cpp
+  moc_edit_fab_factory.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\BinaryWindingNumberOperations.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\BinaryWindingNumberOperations.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\centroid.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\centroid.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(604,13): warning C4129: “e”: 不可识别的字符转义序列 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\SelfIntersectMesh.h(604,13): warning C4129: “e”: 不可识别的字符转义序列 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\string_to_mesh_boolean_type.cpp(29,55): warning C4566: 由通用字符名称“\u2206”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\external\libigl\include\igl\copyleft\cgal\string_to_mesh_boolean_type.cpp(29,55): warning C4566: 由通用字符名称“\u2206”表示的字符不能在当前代码页(936)中表示出来 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(30,28): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(30,28): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(80,26): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(80,26): warning C4305: “参数”: 从“double”到“GLfloat”截断 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(543,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(544,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(543,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(545,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(544,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(546,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(545,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(547,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(546,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(548,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(547,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(550,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(548,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(551,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(550,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(552,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(551,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(552,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(553,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(553,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(554,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(554,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(555,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(555,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(557,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(557,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(558,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(558,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(559,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(559,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(560,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(560,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(561,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(561,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(562,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(562,52): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(568,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(569,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(568,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(570,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(571,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(569,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(572,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(570,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(573,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(571,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(575,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(572,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(576,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(573,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(577,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(575,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(578,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(576,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(579,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(577,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(580,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(582,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(578,50): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(583,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(579,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(584,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(585,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(580,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(582,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(586,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(583,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(587,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(584,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(585,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(586,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(587,51): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(629,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(630,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(631,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(629,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(630,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(631,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(636,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(636,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(760,7): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(760,7): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(871,60): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(872,57): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(873,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(871,60): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(874,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(876,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(872,57): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(877,62): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(873,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(878,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(874,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(879,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(876,59): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(877,62): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(878,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(879,61): warning C4305: “参数”: 从“double”到“const P3ScalarType”截断
+          with
+          [
+              P3ScalarType=float
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(912,6): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(912,6): warning C4189: “num_cc”: 局部变量已初始化但不引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(508): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<CMeshO>”的引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\src\meshlabplugins\edit_fab\common_func.h(508): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<CMeshO>”的引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(506,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(660,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(664,32): warning C4189: “vertInd”: 局部变量已初始化但不引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(506,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(660,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(664,32): warning C4189: “vertInd”: 局部变量已初始化但不引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(874,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(843): message : 在编译 类 模板 成员函数“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”时 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(238): message : 查看对正在编译的函数 模板 实例化“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”的引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(775,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(740): message : 在编译 类 模板 成员函数“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”时 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(290): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”的引用 (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(874,1): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(843): message : 在编译 类 模板 成员函数“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”时 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(238): message : 查看对正在编译的函数 模板 实例化“bool vcg::tri::io::ImporterOBJ<CMeshO>::LoadMask(const char *,vcg::tri::io::ImporterOBJ<CMeshO>::Info &)”的引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(775,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(740): message : 在编译 类 模板 成员函数“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”时 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(290): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::ImporterOBJ<CMeshO>::TokenizeNextLine(std::ifstream &,std::vector<std::string,std::allocator<std::string>> &,std::vector<vcg::Color4<unsigned char>,std::allocator<vcg::Color4<unsigned char>>> *)”的引用 (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(61,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(493): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::FanTessellator<vcg::Point3<float>>(const std::vector<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>,std::allocator<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>>> &,std::vector<T,std::allocator<T>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(61,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(493): message : 查看对正在编译的函数 模板 实例化“void vcg::tri::io::FanTessellator<vcg::Point3<float>>(const std::vector<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>,std::allocator<std::vector<vcg::Point3<float>,std::allocator<vcg::Point3<float>>>>> &,std::vector<T,std::allocator<T>> &)”的引用
+          with
+          [
+              T=int
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<CMeshO>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=CMeshO
+          ] (编译源文件 Release\moc_process_edit.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(62,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 Release\moc_edit_fab_factory.cpp)
+E:\code\3DPreprocess\vcglib\wrap\io_trimesh\io_fan_tessellator.h(62,1): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ] (编译源文件 Release\moc_process_edit.cpp)
+    正在创建库 ..\..\distrib\plugins\edit_fab.lib 和对象 ..\..\distrib\plugins\edit_fab.exp
+  edit_fab.vcxproj -> E:\code\3DPreprocess\src\distrib\plugins\edit_fab.dll

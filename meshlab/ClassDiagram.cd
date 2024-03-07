@@ -1,0 +1,1304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="vcg::GLW" Collapsed="true">
+    <Position X="19.75" Y="39.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gl\trimesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::GlTrimesh&lt;MeshType, partial, FACE_POINTER_CONTAINER&gt;" Collapsed="true">
+    <Position X="18.5" Y="40.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>gKQAUUgACCgMAmAAAgIAAAACAAADwIAECgAAEAAYBAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gl\trimesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::Transform" Collapsed="true">
+    <Position X="15.5" Y="39.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::TrackMode" Collapsed="true">
+    <Position X="14" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAABAABgAEAAAAAAQCAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::Trackball" Collapsed="true">
+    <Position X="15.5" Y="40.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IwIAQMRgAjFQBEPoBIoAJAUOQAQgMkAQAIBlowSAAso=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::InactiveMode" Collapsed="true">
+    <Position X="1.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::SphereMode" Collapsed="true">
+    <Position X="4" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::PanMode" Collapsed="true">
+    <Position X="6.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::ZMode" Collapsed="true">
+    <Position X="8.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::ScaleMode" Collapsed="true">
+    <Position X="10.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::AxisMode" Collapsed="true">
+    <Position X="13" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAAgAAAAEAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::PlaneMode" Collapsed="true">
+    <Position X="15.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAQAAAAAAgAAEAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::CylinderMode" Collapsed="true">
+    <Position X="17.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAABAAAgAAAAEAAAQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::PathMode" Collapsed="true">
+    <Position X="19.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIACAIBIQBgAEEAAABAwBAAAAAIAAAgACIAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::AreaMode" Collapsed="true">
+    <Position X="22" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ai4AAAGAAZAAFgIEAAACQEQAAAAAAoAFAAADUAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::PolarMode" Collapsed="true">
+    <Position X="24.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABCABwAEAAAABAQAAAAAAAAAAAAQAgAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vcg::NavigatorWasdMode" Collapsed="true">
+    <Position X="26.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAIREABACEAgAABARSAAAAAEABcAAaAABAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\vcglib\wrap\gui\trackmode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindowInterface" Collapsed="true">
+    <Position X="22.5" Y="27.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshLabInterface" Collapsed="true">
+    <Position X="5.75" Y="33.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAgAAACAAAAAgAAACAAAAABAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshCommonInterface" Collapsed="true">
+    <Position X="5.5" Y="34.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAgBAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshIOInterface" Collapsed="true">
+    <Position X="1" Y="36.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEAABCIAAKAAjAAAAAAAAAAAAAAQIAAgCAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshFilterInterface" Collapsed="true">
+    <Position X="3.25" Y="36.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAECABAAmCBgQBAMAQAEgFAAAAAAQAAASAIAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshRenderInterface" Collapsed="true">
+    <Position X="5.5" Y="36.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAQCAAAAAAIAAAAAAAgAAAABACAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshDecorateInterface" Collapsed="true">
+    <Position X="7.75" Y="36.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACCFAAAAAAAiSAAAAEAAiAAAAAAAAgAAAAACAoAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshEditInterface" Collapsed="true">
+    <Position X="10" Y="36.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAAAAABAAAAQAAAAJABAAAAQEAIAAIAACFAgAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshLabFilterInterface" Collapsed="true">
+    <Position X="11" Y="34.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAwAAAAAAAAEkAAAAAAQQAAgAAAAgA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuWithToolTip" Collapsed="true">
+    <Position X="12.5" Y="39.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchMenu" Collapsed="true">
+    <Position X="12.5" Y="41" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAAAACAAAAAABAIACQAABAIAAAigABAAoCAAQ=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLFloatSlider" Collapsed="true">
+    <Position X="21.5" Y="36.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow" Collapsed="true">
+    <Position X="22.5" Y="28.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>VFn+vb7ff/f2W9/j35z/vH4fX1PanGKlm927fC15nvs=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingAction">
+    <Position X="37.75" Y="7.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAACAAAAAAAIAAAAAAgAAIAAEAAAAAAQAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingBBoxAction" Collapsed="true">
+    <Position X="48.5" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPointsAction" Collapsed="true">
+    <Position X="51.25" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingWireAction" Collapsed="true">
+    <Position X="50.5" Y="14.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingSolidAction" Collapsed="true">
+    <Position X="57.25" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIACAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFauxEdgeWireAction" Collapsed="true">
+    <Position X="58.75" Y="14.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerFaceNormalAction" Collapsed="true">
+    <Position X="0.5" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerVertexNormalAction" Collapsed="true">
+    <Position X="2.5" Y="14.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAACAAAAAgAIAAAAAAgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPointsDotAction" Collapsed="true">
+    <Position X="4.25" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAABAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerVertTextCoordAction" Collapsed="true">
+    <Position X="8" Y="12" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAACAAAAAAAIAAAAACgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerWedgeTextCoordAction" Collapsed="true">
+    <Position X="12" Y="12" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAIAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingSingleLightingAction" Collapsed="true">
+    <Position X="16.75" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingDoubleLightingAction" Collapsed="true">
+    <Position X="21" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAgAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFancyLightingAction" Collapsed="true">
+    <Position X="26" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFaceCullAction" Collapsed="true">
+    <Position X="30.25" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingNoShadingAction" Collapsed="true">
+    <Position X="34.25" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAACAAAAAAAIAAAAAAkAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerMeshColorAction" Collapsed="true">
+    <Position X="37.75" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAACAAAAAAAIAAAAQAgAAAAAAAAAAgAQIQAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingBBoxPerMeshColorAction" Collapsed="true">
+    <Position X="41.5" Y="12" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAQAIAAAAQAgAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerVertexColorAction" Collapsed="true">
+    <Position X="45" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAEAACAAAAAAAIAAAAAAgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPerFaceColorAction" Collapsed="true">
+    <Position X="47.5" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAACAAAAAAAIAAAAAAgAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingUserDefinedGeneralColorAction" Collapsed="true">
+    <Position X="53.75" Y="12" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAAAIAIAAAABAgAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingUserDefinedColorAction" Collapsed="true">
+    <Position X="52.5" Y="16.5" Width="3.25" />
+    <InheritanceLine Type="MLRenderingUserDefinedGeneralColorAction" ManuallyRouted="true">
+      <Path>
+        <Point X="55.25" Y="12.677" />
+        <Point X="55.25" Y="15.882" />
+        <Point X="54.125" Y="15.882" />
+        <Point X="54.125" Y="16.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAACAAAAAIAIAABAAAgAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingBBoxUserDefinedColorAction" Collapsed="true">
+    <Position X="56" Y="16.5" Width="3" />
+    <InheritanceLine Type="MLRenderingUserDefinedGeneralColorAction" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="55.25" Y="12.677" />
+        <Point X="55.25" Y="15.895" />
+        <Point X="57.125" Y="15.895" />
+        <Point X="57.125" Y="16.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAIAIAAAAAQgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFloatAction" Collapsed="true">
+    <Position X="61.5" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAACAACAAAAIAAAAAAgAAAAAAAAAAAAggAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingPointsSizeAction" Collapsed="true">
+    <Position X="59.5" Y="16.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAgABAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingWireWidthAction" Collapsed="true">
+    <Position X="62.75" Y="16.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingSelectionAction" Collapsed="true">
+    <Position X="6.5" Y="14.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAgAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingVertSelectionAction" Collapsed="true">
+    <Position X="9.75" Y="14.5" Width="2.75" />
+    <InheritanceLine Type="MLRenderingAction" FixedToPoint="true">
+      <Path>
+        <Point X="40.5" Y="10.428" />
+        <Point X="40.5" Y="10.803" />
+        <Point X="11.25" Y="10.803" />
+        <Point X="11.25" Y="14.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFaceSelectionAction" Collapsed="true">
+    <Position X="14.5" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIQAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingEdgeDecoratorAction" Collapsed="true">
+    <Position X="19" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingEdgeBoundaryAction" Collapsed="true">
+    <Position X="23.25" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFaceBoundaryAction" Collapsed="true">
+    <Position X="28.25" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingEdgeManifoldAction" Collapsed="true">
+    <Position X="32" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAQAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingVertManifoldAction" Collapsed="true">
+    <Position X="35.75" Y="14.5" Width="2.75" />
+    <InheritanceLine Type="MLRenderingAction" ManuallyRouted="true">
+      <Path>
+        <Point X="40.5" Y="10.428" />
+        <Point X="40.5" Y="11.648" />
+        <Point X="37.125" Y="11.648" />
+        <Point X="37.125" Y="14.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingTexBorderAction" Collapsed="true">
+    <Position X="39" Y="14.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingDotAction" Collapsed="true">
+    <Position X="41.75" Y="14.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAICAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingBBoxQuotedInfoAction" Collapsed="true">
+    <Position X="44.25" Y="14.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAACAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingFloatSlider" Collapsed="true">
+    <Position X="21.5" Y="38" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAgABAIAAwAAAAAAkAAAAABAIAAAAAAA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingToolbar" Collapsed="true">
+    <Position X="21.5" Y="33.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BACAgAAAAEAgAIABAIAAAAACBgBgQAEAIBQIKAAgAIA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingSideToolbar" Collapsed="true">
+    <Position X="21.5" Y="35" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Splitter" Collapsed="true">
+    <Position X="9.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAgAAAAAAAAJAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>multiViewer_Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiViewer_Container" Collapsed="true">
+    <Position X="9.5" Y="39" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAwAyAAAAgAQAAEQiIAAABAAAABAAACAADAEI0A=</HashCode>
+      <FileName>multiViewer_Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshLabWidget" Collapsed="true">
+    <Position X="16.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABAAAAAAAAAAAAAQAAABAAAAAAAAgAQAIEASAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolWidget" Collapsed="true">
+    <Position X="1.75" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAAAAAgAAAAAAQAIAAAAAAAAAAAAQAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineEditWidget" Collapsed="true">
+    <Position X="6.25" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAQAAhAQAAABAAAAAAAAAAQAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntWidget" Collapsed="true">
+    <Position X="4" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloatWidget" Collapsed="true">
+    <Position X="6.25" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAADAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringWidget" Collapsed="true">
+    <Position X="8.5" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAiAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorWidget" Collapsed="true">
+    <Position X="10.75" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAACBAAAAAACIAQAAAAAABAAAgAAAQEAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbsPercWidget" Collapsed="true">
+    <Position X="13" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAggAIAAAAAIBQQAAAAAAAAAAAAAQAAAICAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point3fWidget" Collapsed="true">
+    <Position X="15.25" Y="25" Width="1.5" />
+    <InheritanceLine Type="MeshLabWidget" FixedFromPoint="true">
+      <Path>
+        <Point X="17.25" Y="24.177" />
+        <Point X="17.25" Y="24.625" />
+        <Point X="16" Y="24.625" />
+        <Point X="16" Y="25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAEBJAAAAAACAAAIIAQAAQABAAAAAAAACQUAIACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix44fWidget" Collapsed="true">
+    <Position X="17.5" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABAAAAAACAIAIaAQAAAABAAAAAAAACQEAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShotfWidget" Collapsed="true">
+    <Position X="19.75" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgBAAAAQCCAAgAAAQAAQAIAAAAAAAADQEAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DynamicFloatWidget" Collapsed="true">
+    <Position X="22" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAFAggAAACCAAAIAQAAAAIAAgAAhAAAQAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComboWidget" Collapsed="true">
+    <Position X="25.5" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAIAAAAAUAABAAIAAAQAAAASAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnumWidget" Collapsed="true">
+    <Position X="24.25" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAIAAAAAAACAAQAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshWidget" Collapsed="true">
+    <Position X="26.5" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAARAAQAAQAAAAAAAAAAAAAAAgCAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOFileWidget" Collapsed="true">
+    <Position X="30" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAACQABAAIAAAAAAAAAQEAAACQA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveFileWidget" Collapsed="true">
+    <Position X="28.75" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenFileWidget" Collapsed="true">
+    <Position X="31" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLMeshLabWidget" Collapsed="true">
+    <Position X="10" Y="27.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACAAgAAAAAAAQAAAAAAQAAABAAAAQQAGAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLCheckBoxWidget" Collapsed="true">
+    <Position X="3.5" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABgAAAAQAAAAAAQAAAAAAAAQQAEAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLEditWidget" Collapsed="true">
+    <Position X="5.75" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAgAAAAAAAAQAAAAAAQAAAABAAAQQAAAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLStringWidget" Collapsed="true">
+    <Position X="8" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAgAAAAAAAAQAAAAAAQAgAAAAAAQQAAAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLAbsWidget" Collapsed="true">
+    <Position X="10.25" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgkAIAAAAAQBAQAAAQAAAAAAAAQQBEAIAQA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLVec3Widget" Collapsed="true">
+    <Position X="12.5" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEBIAAAAAAAACBIwAAAAAAZAAAAAAAQSQUEIAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLColorWidget" Collapsed="true">
+    <Position X="14.75" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACBAAAAAAAQAAAAAQZAAAAAgAAQQAEAACAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLSliderWidget" Collapsed="true">
+    <Position X="17" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAAgkAAEACAAAYAAAAAAYAAgAAhAAQQAEAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLComboWidget" Collapsed="true">
+    <Position X="19.25" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAQIAAAAEAAUQAEAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLEnumWidget" Collapsed="true">
+    <Position X="19.25" Y="30.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLMeshWidget" Collapsed="true">
+    <Position X="19.25" Y="31.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAgAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLShotWidget" Collapsed="true">
+    <Position X="1.25" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAAQCEAAgAQAAAAQAYAAAAAAAASQEkAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_aboutDialog" Collapsed="true">
+    <Position X="15.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAwAABAA0gAAAAAAFAQgMAAAAAgiAAAAAMI=</HashCode>
+      <FileName>GeneratedFiles\ui_aboutDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_CongratsDialog" Collapsed="true">
+    <Position X="15.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAQAAAAAAAAAQAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_congratsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_FilterCreatorTab" Collapsed="true">
+    <Position X="18.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAQAABAAAAAEAgAIAAQAIAAAAJAAAAAAABA=</HashCode>
+      <FileName>GeneratedFiles\ui_filtercreatortab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_FilterCreatorGUI" Collapsed="true">
+    <Position X="12.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>5wAAAAAAAAAAABAEAQBAAABAAIQAIAAAAKCJAAAEAEA=</HashCode>
+      <FileName>GeneratedFiles\ui_filtergui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_scriptDialog" Collapsed="true">
+    <Position X="3.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAgIQQCAAAIAAAAAQAEAQgMAIAAIAAQEAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_filterScriptDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_layerDialog" Collapsed="true">
+    <Position X="0.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIQAAAAAAACQAAUAIIAAAACAAEACAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_RenameTextureDialog" Collapsed="true">
+    <Position X="6.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAABAAAAQAAIAhAAQAsAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_renametexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MaskExporterDialog" Collapsed="true">
+    <Position X="18.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4IABAAIDAIUCEAhSQQQIAAAAEAQhOEACACACQEDABIo=</HashCode>
+      <FileName>GeneratedFiles\ui_savemaskexporter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_SSDialog" Collapsed="true">
+    <Position X="15.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0wAAAIAAAQQJABAAQgAYAAAAEAQoKACAAAgAAAAACJA=</HashCode>
+      <FileName>GeneratedFiles\ui_savesnapshotDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::RenameTextureDialog" Collapsed="true">
+    <Position X="6.5" Y="38.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_renametexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::scriptDialog" Collapsed="true">
+    <Position X="3.5" Y="38.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_filterScriptDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::layerDialog" Collapsed="true">
+    <Position X="0.5" Y="38.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MaskExporterDialog" Collapsed="true">
+    <Position X="18.5" Y="37.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_savemaskexporter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::SSDialog" Collapsed="true">
+    <Position X="15.5" Y="37.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_savesnapshotDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::FilterCreatorGUI" Collapsed="true">
+    <Position X="12.5" Y="37.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_filtergui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::FilterCreatorTab" Collapsed="true">
+    <Position X="18.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_filtercreatortab.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::aboutDialog" Collapsed="true">
+    <Position X="15.5" Y="34.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_aboutDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::CongratsDialog" Collapsed="true">
+    <Position X="15.5" Y="31.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_congratsDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GLAreaSetting" Collapsed="true">
+    <Position X="9.75" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAhAACgAAAQBAAABAAiAQIBEAAApAARAEBCBAJKAA=</HashCode>
+      <FileName>glarea_setting.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLDefaultMeshDecorators" Collapsed="true">
+    <Position X="8" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQABQAEAFBQIAIAAAgQEAAAAAAJACAgEIAmQVgACAAA=</HashCode>
+      <FileName>ml_default_decorators.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLSelectionBuffers" Collapsed="true">
+    <Position X="4.5" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAACAAAgQAAAAEABSAAAAAAAAAAQAAAAAAE=</HashCode>
+      <FileName>ml_selection_buffers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnapshotSetting" Collapsed="true">
+    <Position X="9.75" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAgEAAgAACCIAAAAAAEAAAAAAAAAIAA=</HashCode>
+      <FileName>snapshotsetting.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshEditInterfaceFactory" Collapsed="true">
+    <Position X="16.75" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAABAAAAAAAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBoxListItemDelegate" Collapsed="true">
+    <Position X="6.25" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBoxList" Collapsed="true">
+    <Position X="4.5" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAAAAgQAMAIBAQAABCAIAAAAAgAAAAAAAIAAAI=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrimitiveButton" Collapsed="true">
+    <Position X="16.75" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAQAAAABAAAAAJAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpandButtonWidget" Collapsed="true">
+    <Position X="15" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgE=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeWidgetWithMenu" Collapsed="true">
+    <Position X="15" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAgAAAAAEAAABAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UsefulGUIFunctions" Collapsed="true">
+    <Position X="16.75" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAIBAAAIAgAAACAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLNumberArea" Collapsed="true">
+    <Position X="9.75" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLSyntaxHighlighter" Collapsed="true">
+    <Position X="6.25" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAABAAAAAAAAAAAAAAAAAQQEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLAutoCompleterPopUp" Collapsed="true">
+    <Position X="6.25" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLAutoCompleter" Collapsed="true">
+    <Position X="4.5" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLScriptEditor" Collapsed="true">
+    <Position X="2.75" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEIAUACAEQAAAAAIAAAAAAAIQAEAABAAIACACI=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DelayedToolButtonPopUpStyle" Collapsed="true">
+    <Position X="13.25" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyToolButton" Collapsed="true">
+    <Position X="8" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuLineEdit" Collapsed="true">
+    <Position X="15" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>additionalgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeTextureNameDialog" Collapsed="true">
+    <Position X="2.75" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEAAAAAEAAAAIAAAAAAAACAAgAAACAABAAAAAA=</HashCode>
+      <FileName>changetexturename.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingDialog" Collapsed="true">
+    <Position X="8" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAECBEIIAAAAACAAAAAAAABIAACAAAAAUAAQAAAAA=</HashCode>
+      <FileName>customDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomDialog" Collapsed="true">
+    <Position X="8" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAIAAAAgAAAABACAAAAAMAAAAIAAA=</HashCode>
+      <FileName>customDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterScriptDialog" Collapsed="true">
+    <Position X="2.75" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAiAAAAAAEAAAAAAoCAAAIAIEAQAAAAAAAACACAA=</HashCode>
+      <FileName>filterScriptDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterThread" Collapsed="true">
+    <Position X="4.5" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQgAAABAAAAAAAEAAEAACAARAAAAAAIEAgAAAAAA=</HashCode>
+      <FileName>filterthread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GLArea" Collapsed="true">
+    <Position X="8" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAIAAhAAAAAAAAAAAAABAAAAAAAAoI=</HashCode>
+      <FileName>glarea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshTreeWidgetItem" Collapsed="true">
+    <Position X="2.75" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAIAAAA=</HashCode>
+      <FileName>layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RasterTreeWidgetItem" Collapsed="true">
+    <Position X="18.5" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorParamItem" Collapsed="true">
+    <Position X="9.75" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorParamsTreeWidget" Collapsed="true">
+    <Position X="11.5" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMCAEAIAAAAACAAAAAIAAAIAACAAAAAAAAQAAAAA=</HashCode>
+      <FileName>layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LayerDialog" Collapsed="true">
+    <Position X="11.5" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LiQAMBgEEAQBMAARGAEGIAANBAAEAIAAAAQACAhAAAg=</HashCode>
+      <FileName>layerDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindowSetting" Collapsed="true">
+    <Position X="13.25" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQhACAAIQAAAgAAAAAAEAAIgAABAAAAAAIAAA=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileOpenEater" Collapsed="true">
+    <Position X="16.75" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingGlobalAction" Collapsed="true">
+    <Position X="13.25" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAgAgAAAAAAAAAAAAiAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_rendering_actions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingZeroOrOneActionGroup" Collapsed="true">
+    <Position X="20.25" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAIAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingColorPicker" Collapsed="true">
+    <Position X="11.5" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAoAAA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingOnOffToolbar" Collapsed="true">
+    <Position X="16.75" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAABAIAAgAAAAAAkAAAAARUIAAAoAAA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingGlobalToolbar" Collapsed="true">
+    <Position X="15" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAEAAAAAJAAAACAAAAAAAAAAAEQgAAAAAAgAAA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLRenderingParametersTab" Collapsed="true">
+    <Position X="18.5" Y="49" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAIAAiBAIAAAAAABAACAABAAATIAAEggIA=</HashCode>
+      <FileName>ml_render_gui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshlabStdDialog" Collapsed="true">
+    <Position X="18.5" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAgBCAAIAkQAAAAAAAIgASAIwAOAAIAAAgQIBg=</HashCode>
+      <FileName>ml_std_par_dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplitterHandle" Collapsed="true">
+    <Position X="11.5" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>multiViewer_Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PluginDialog" Collapsed="true">
+    <Position X="13.25" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAABBAABEAAAACAAAgEAACACAAAQAAAAA=</HashCode>
+      <FileName>plugindialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveMaskExporterDialog" Collapsed="true">
+    <Position X="4.5" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgQIAgAAAAJEAEIBAAAAIAIAAAhAOAAAiAgQAAAgAI=</HashCode>
+      <FileName>savemaskexporter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSnapshotDialog" Collapsed="true">
+    <Position X="6.25" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAECAAAAIAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>saveSnapshotDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StdParFrame" Collapsed="true">
+    <Position X="13.25" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAAAAAAAgAAAAAAAAAAAQAAAAAAAAIAAgAEgA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericParamDialog" Collapsed="true">
+    <Position X="6.25" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAQAAAAAAkAAAAAAAAAAAAAAAAAAAIAAAgAAAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RichWidgetInterfaceConstructor" Collapsed="true">
+    <Position X="2.75" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAACAAAEAAAAAAAAgAAAAAIAAAAAAAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RichParameterToQTableWidgetItemConstructor" Collapsed="true">
+    <Position X="20.25" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAEAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>stdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParamGeneratorGUI" Collapsed="true">
+    <Position X="11.5" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAkAAAIQAAACAEgARAAAABCgDAQiAAgAEIA4AIAQAQ=</HashCode>
+      <FileName>xmlgeneratorgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterGeneratorGUI" Collapsed="true">
+    <Position X="18.5" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAggAAEEAAAABggAAAAABAggAEBAIBAAAAAAA=</HashCode>
+      <FileName>xmlgeneratorgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterGeneratorTab" Collapsed="true">
+    <Position X="20.25" Y="47" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAAAAAEAAABIAAAAAAIAAIgAAAAAIACAAAIAA=</HashCode>
+      <FileName>xmlgeneratorgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PluginGeneratorGUI" Collapsed="true">
+    <Position X="15" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCQACBAAAKAAgASBAAIoIgAAAgA8AIACAJACASSCCE=</HashCode>
+      <FileName>xmlgeneratorgui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLWidgetException" Collapsed="true">
+    <Position X="2.75" Y="52" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLMeshLabWidgetFactory" Collapsed="true">
+    <Position X="18.5" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLStdParFrame" Collapsed="true">
+    <Position X="20.25" Y="51" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAACAAAAAAABAAAAAAAAAQAAAAAACIAAAgAAAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshLabXMLStdDialog" Collapsed="true">
+    <Position X="20.25" Y="48" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCCAYgAmRCEBKAkQAAAAAAAIgASAKQAOECAAAAgQJBA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OldScriptingSystemXMLParamDialog" Collapsed="true">
+    <Position X="9.75" Y="50" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAIAAAAAAkAAAAAAAAAAgAAAACAIEAAACgAEAA=</HashCode>
+      <FileName>xmlstdpardialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="`anonymous-namespace'::initializer" Collapsed="true">
+    <Position X="2.75" Y="53.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\qrc_meshlab.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="SignalCallBack" Collapsed="true">
+    <Position X="2.75" Y="55.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\code\Meshlab2016\src\common\interfaces.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="LightingModel" Collapsed="true">
+    <Position X="4.5" Y="54.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>glarea.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimMode" Collapsed="true">
+    <Position X="2.75" Y="54.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAA=</HashCode>
+      <FileName>glarea.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

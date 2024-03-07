@@ -1,0 +1,370 @@
+﻿  coordinateframe.cpp
+  trackball.cpp
+  trackmode.cpp
+  additionalgui.cpp
+  changetexturename.cpp
+  customDialog.cpp
+  filterScriptDialog.cpp
+  filterthread.cpp
+  glarea.cpp
+E:\code\3DPreprocess\vcglib\wrap\gui\trackutils.h(184,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\vcglib\wrap\gui\trackmode.cpp)
+E:\code\3DPreprocess\vcglib\wrap\gui\coordinateframe.cpp(65,41): warning C4100: “glw”: 未引用的形参
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 customDialog.cpp)
+  glarea_setting.cpp
+  layerDialog.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 filterScriptDialog.cpp)
+  DESEncrypter.cpp
+  emxCodeRegister.cpp
+  emxMessageHandler.cpp
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 filterScriptDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 filterScriptDialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 filterScriptDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 filterScriptDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 filterScriptDialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 customDialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 filterScriptDialog.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 glarea.cpp)
+  emxRegisterDialog.cpp
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(44,8): warning C4189: “charNum”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): message : 请考虑在格式字符串中使用“%lld”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): message : 请考虑在格式字符串中使用“%Id”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): message : 请考虑在格式字符串中使用“%I64d”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“time_t”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): message : 请考虑在格式字符串中使用“%lld”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): message : 请考虑在格式字符串中使用“%Id”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(537,10): message : 请考虑在格式字符串中使用“%I64d”
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(546,8): warning C4189: “regNum”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(641,40): warning C4101: “iSec”: 未引用的局部变量
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(641,27): warning C4101: “iHour”: 未引用的局部变量
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(641,34): warning C4101: “iMin”: 未引用的局部变量
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(639,7): warning C4189: “szTmpTime”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(816,57): warning C4100: “RegID”: 未引用的形参
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(821,23): warning C4189: “regNum”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxCodeRegister.cpp(821,8): warning C4189: “charNum”: 局部变量已初始化但不引用
+  LicenseManager.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 layerDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 glarea.cpp)
+E:\code\3DPreprocess\src\meshlab\LicenseManager\LicenseManager.h(16,39): warning C4100: “pHandler”: 未引用的形参 (编译源文件 LicenseManager\LicenseManager.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 glarea.cpp)
+  QtLicenseManager.cpp
+  main.cpp
+  mainwindow_Init.cpp
+E:\code\3DPreprocess\src\meshlab\LicenseManager\LicenseManager.h(16,39): warning C4100: “pHandler”: 未引用的形参 (编译源文件 LicenseManager\emxRegisterDialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 glarea.cpp)
+E:\code\3DPreprocess\src\meshlab\LicenseManager\LicenseManager.h(16,39): warning C4100: “pHandler”: 未引用的形参 (编译源文件 LicenseManager\QtLicenseManager.cpp)
+  mainwindow_RunTime.cpp
+E:\code\3DPreprocess\src\meshlab\LicenseManager\emxRegisterDialog.cpp(323,32): warning C4100: “parent”: 未引用的形参
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 layerDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 layerDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 layerDialog.cpp)
+  ml_default_decorators.cpp
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 layerDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 layerDialog.cpp)
+E:\code\3DPreprocess\src\meshlab\LicenseManager\QtLicenseManager.cpp(92,63): warning C4100: “moduleName”: 未引用的形参
+E:\code\3DPreprocess\src\meshlab\LicenseManager\QtLicenseManager.cpp(92,46): warning C4100: “msg”: 未引用的形参
+E:\code\3DPreprocess\src\meshlab\glarea.cpp(1978,47): warning C4305: “=”: 从“double”到“float”截断
+E:\code\3DPreprocess\src\meshlab\glarea.cpp(1979,47): warning C4305: “=”: 从“double”到“float”截断
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 layerDialog.cpp)
+E:\code\3DPreprocess\src\meshlab\glarea.cpp(2330,31): warning C4305: “初始化”: 从“double”到“float”截断
+  ml_rendering_actions.cpp
+  ml_render_gui.cpp
+E:\code\3DPreprocess\src\common\mlapplication.h(41,69): warning C4100: “hw”: 未引用的形参 (编译源文件 main.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 main.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 main.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 main.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 main.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 main.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 main.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 mainwindow_Init.cpp)
+  ml_selection_buffers.cpp
+  ml_std_par_dialog.cpp
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\src\common\mlapplication.h(41,69): warning C4100: “hw”: 未引用的形参 (编译源文件 mainwindow_Init.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ml_rendering_actions.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\meshlab\mainwindow_Init.cpp(1139,39): warning C4100: “verboseFlag”: 未引用的形参
+E:\code\3DPreprocess\src\meshlab\ml_render_gui.cpp(1117,52): warning C4100: “meshid”: 未引用的形参
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 ml_rendering_actions.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 ml_rendering_actions.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_rendering_actions.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_rendering_actions.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 ml_rendering_actions.cpp)
+E:\code\3DPreprocess\src\common\mlapplication.h(41,69): warning C4100: “hw”: 未引用的形参 (编译源文件 mainwindow_RunTime.cpp)
+E:\code\3DPreprocess\src\meshlab\mainwindow_RunTime.cpp(765,14): warning C4189: “layervis”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(211,53): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\mainwindow_RunTime.cpp(2014,28): warning C4189: “iEdit”: 局部变量已初始化但不引用
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(879,42): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(906,46): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(936,43): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(939,43): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\mainwindow_RunTime.cpp(3276,36): warning C4100: “visible”: 未引用的形参
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ml_selection_buffers.cpp)
+E:\code\3DPreprocess\src\meshlab\mainwindow_RunTime.cpp(3563,41): warning C4100: “event”: 未引用的形参
+  multiViewer_Container.cpp
+  plugindialog.cpp
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(133,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(130): message : 在编译 类 模板 成员函数“void vcg::SimpleTempData<CONT,ATTR_TYPE>::Reorder(std::vector<size_t,std::allocator<size_t>> &)”时
+          with
+          [
+              CONT=vcg::face::vector_ocf<CFaceO>,
+              ATTR_TYPE=bool
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\base.h(257): message : 查看对正在编译的 类 模板 实例化“vcg::SimpleTempData<CONT,ATTR_TYPE>”的引用
+          with
+          [
+              CONT=vcg::face::vector_ocf<CFaceO>,
+              ATTR_TYPE=bool
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\selection.h(111): message : 查看对正在编译的函数 模板 实例化“ATTR_TYPE &vcg::tri::TriMesh<vcg::vertex::vector_ocf<CVertexO>,vcg::face::vector_ocf<CFaceO>,vcg::tri::DummyContainer,vcg::tri::DummyContainer>::AttributeHandle<ATTR_TYPE,vcg::face::vector_ocf<CFaceO>>::operator []<CFaceO>(const RefType &)”的引用
+          with
+          [
+              ATTR_TYPE=bool,
+              RefType=CFaceO
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\selection.h(111): message : 查看对正在编译的函数 模板 实例化“ATTR_TYPE &vcg::tri::TriMesh<vcg::vertex::vector_ocf<CVertexO>,vcg::face::vector_ocf<CFaceO>,vcg::tri::DummyContainer,vcg::tri::DummyContainer>::AttributeHandle<ATTR_TYPE,vcg::face::vector_ocf<CFaceO>>::operator []<CFaceO>(const RefType &)”的引用
+          with
+          [
+              ATTR_TYPE=bool,
+              RefType=CFaceO
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\selection.h(79): message : 在编译 类 模板 成员函数“bool vcg::tri::SelectionStack<CMeshO>::pop(bool)”时 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(780): message : 查看对正在编译的函数 模板 实例化“bool vcg::tri::SelectionStack<CMeshO>::pop(bool)”的引用
+E:\code\3DPreprocess\src\meshlab\ml_default_decorators.cpp(750): message : 查看对正在编译的 类 模板 实例化“vcg::tri::SelectionStack<CMeshO>”的引用
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(127,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(126): message : 在编译 类 模板 成员函数“void vcg::SimpleTempData<CONT,ATTR_TYPE>::Resize(size_t)”时
+          with
+          [
+              CONT=vcg::face::vector_ocf<CFaceO>,
+              ATTR_TYPE=bool
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(112,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(112): message : 在编译 类 模板 成员函数“ATTR_TYPE &vcg::SimpleTempData<CONT,ATTR_TYPE>::operator [](size_t)”时
+          with
+          [
+              ATTR_TYPE=bool,
+              CONT=vcg::face::vector_ocf<CFaceO>
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(114): message : 查看对正在编译的函数 模板 实例化“ATTR_TYPE &vcg::SimpleTempData<CONT,ATTR_TYPE>::operator [](size_t)”的引用
+          with
+          [
+              ATTR_TYPE=bool,
+              CONT=vcg::face::vector_ocf<CFaceO>
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ml_std_par_dialog.cpp)
+  savemaskexporter.cpp
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(96,41): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(96): message : 在编译 类 模板 成员函数“vcg::SimpleTempData<CONT,ATTR_TYPE>::SimpleTempData(STL_CONT &)”时
+          with
+          [
+              CONT=vcg::face::vector_ocf<CFaceO>,
+              ATTR_TYPE=bool,
+              STL_CONT=vcg::face::vector_ocf<CFaceO>
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\allocate.h(1331): message : 查看对正在编译的函数 模板 实例化“vcg::SimpleTempData<CONT,ATTR_TYPE>::SimpleTempData(STL_CONT &)”的引用
+          with
+          [
+              CONT=vcg::face::vector_ocf<CFaceO>,
+              ATTR_TYPE=bool,
+              STL_CONT=vcg::face::vector_ocf<CFaceO>
+          ] (编译源文件 ml_default_decorators.cpp)
+E:\code\3DPreprocess\vcglib\vcg\container\simple_temporary_data.h(96,79): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据 (编译源文件 ml_default_decorators.cpp)
+  saveSnapshotDialog.cpp
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 ml_selection_buffers.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 ml_selection_buffers.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_selection_buffers.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_selection_buffers.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 ml_selection_buffers.cpp)
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(17,57): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(47,64): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(151,39): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(153,47): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(192,39): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(194,46): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\code\3DPreprocess\src\meshlab\ml_selection_buffers.cpp(211,64): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 ml_std_par_dialog.cpp)
+  stdpardialog.cpp
+  xmlgeneratorgui.cpp
+  xmlstdpardialog.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 plugindialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\mlapplication.h(41,69): warning C4100: “hw”: 未引用的形参 (编译源文件 multiViewer_Container.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 xmlgeneratorgui.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 xmlstdpardialog.cpp)
+  qrc_meshlab.cpp
+  moc_interfaces.cpp
+  moc_additionalgui.cpp
+  moc_changetexturename.cpp
+  moc_customDialog.cpp
+  moc_filterScriptDialog.cpp
+  moc_filterthread.cpp
+  moc_glarea.cpp
+  moc_layerDialog.cpp
+  moc_mainwindow.cpp
+  moc_emxCodeRegister.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_customDialog.cpp)
+  moc_emxMessageHandler.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_interfaces.cpp)
+  moc_emxRegisterDialog.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_glarea.cpp)
+  moc_QtLicenseManager.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_mainwindow.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_customDialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_glarea.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_interfaces.cpp)
+  moc_ml_rendering_actions.cpp
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_filterthread.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_interfaces.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_customDialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_glarea.cpp)
+E:\code\3DPreprocess\src\meshlab\LicenseManager\LicenseManager.h(16,39): warning C4100: “pHandler”: 未引用的形参 (编译源文件 Release\moc_QtLicenseManager.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_interfaces.cpp)
+  moc_ml_render_gui.cpp
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_mainwindow.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_mainwindow.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_mainwindow.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_mainwindow.cpp)
+  moc_ml_std_par_dialog.cpp
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_mainwindow.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_mainwindow.cpp)
+  moc_multiViewer_Container.cpp
+  moc_plugindialog.cpp
+  moc_savemaskexporter.cpp
+  moc_saveSnapshotDialog.cpp
+  moc_stdpardialog.cpp
+  moc_xmlgeneratorgui.cpp
+  moc_xmlstdpardialog.cpp
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_multiViewer_Container.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_ml_std_par_dialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_multiViewer_Container.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_multiViewer_Container.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_savemaskexporter.cpp)
+E:\code\3DPreprocess\vcglib\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_stdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh_elements.h(328,16): warning C4100: “t”: 未引用的形参 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_mesh.h(504,17): warning C4100: “mesh_id”: 未引用的形参 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(22,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(550,91): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\geodesic\geodesic_algorithm_exact.h(564,16): warning C4189: “list”: 局部变量已初始化但不引用 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+E:\code\3DPreprocess\src\common\interfaces.h(602,50): warning C4100: “event”: 未引用的形参 (编译源文件 Release\moc_xmlstdpardialog.cpp)
+LINK : warning LNK4217: 符号“glewInit”(在“ common.lib(glew.obj)”中定义)已由“glarea.obj”(函数“"protected: virtual void __cdecl GLArea::initializeGL(void)" (?initializeGL@GLArea@@MEAAXXZ)”中)导入
+LINK : warning LNK4217: 符号“__glewBindBuffer”(在“ common.lib(glew.obj)”中定义)已由“ml_selection_buffers.obj”(函数“"public: void __cdecl MLSelectionBuffers::drawSelection(enum MLSelectionBuffers::ML_SELECTION_TYPE)const " (?drawSelection@MLSelectionBuffers@@QEBAXW4ML_SELECTION_TYPE@1@@Z)”中)导入
+LINK : warning LNK4217: 符号“__glewBufferData”(在“ common.lib(glew.obj)”中定义)已由“ml_selection_buffers.obj”(函数“"public: void __cdecl MLSelectionBuffers::updateBuffer(enum MLSelectionBuffers::ML_SELECTION_TYPE)" (?updateBuffer@MLSelectionBuffers@@QEAAXW4ML_SELECTION_TYPE@1@@Z)”中)导入
+LINK : warning LNK4217: 符号“__glewDeleteBuffers”(在“ common.lib(glew.obj)”中定义)已由“ml_selection_buffers.obj”(函数“"public: __cdecl MLSelectionBuffers::~MLSelectionBuffers(void)" (??1MLSelectionBuffers@@QEAA@XZ)”中)导入
+LINK : warning LNK4217: 符号“__glewGenBuffers”(在“ common.lib(glew.obj)”中定义)已由“ml_selection_buffers.obj”(函数“"public: void __cdecl MLSelectionBuffers::updateBuffer(enum MLSelectionBuffers::ML_SELECTION_TYPE)" (?updateBuffer@MLSelectionBuffers@@QEAAXW4ML_SELECTION_TYPE@1@@Z)”中)导入
+  meshlab.vcxproj -> E:\code\3DPreprocess\src\distrib\3DMeshProcess.exe
